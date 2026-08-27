@@ -40,9 +40,9 @@ Exercício de modelagem com classes, herança e composição. O domínio é o de
 
 O ponto do exercício é enxergar que `Casamento` é um tipo de `Relacionamento` e por isso herda dele, em vez de duplicar os campos. Repare também no uso de parâmetros nomeados (`{required this.nome}`) — em Dart eles são a forma idiomática de construir objetos com vários campos, porque deixam a chamada legível sem depender da ordem dos argumentos.
 
-### 18-08 — Exercício em sala
+### 18-08 — Exercício avaliativo em sala
 
-Atividade avaliativa realizada durante a aula.
+Atividade avaliativa feita durante a aula, sobre o conteúdo de orientação a objetos do exercício `dart_poo`. Não há código desta data no repositório: a entrega foi individual de cada aluno.
 
 ### 20-08 — `hello_world_again`: primeiro app Flutter
 
