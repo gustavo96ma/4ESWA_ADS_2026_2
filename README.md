@@ -5,6 +5,10 @@ Repositório com o material desenvolvido em sala nas aulas de Programação para
 Professor: Me. Gustavo Meneghetti Arcolezi
 Instituição: UNICIVE — Maringá/PR
 
+## Trabalho do 1º Bimestre
+
+O enunciado está em [`trabalho-bimestral/`](trabalho-bimestral/README.md). A entrega é feita pelo Moodle, com o link de um repositório do GitHub, até 18/09/2026. As apresentações acontecem em sala, antes dessa data.
+
 ## Como usar este repositório
 
 Cada pasta corresponde a uma aula ou a um tema trabalhado em sala. As pastas nomeadas no formato `DD-MM` são as aulas datadas; as demais agrupam exercícios por assunto. Dentro de cada uma está o código como ele ficou ao fim do encontro.
